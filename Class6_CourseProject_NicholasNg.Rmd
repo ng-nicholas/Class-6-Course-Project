@@ -1,0 +1,8 @@
+---
+title: "Statistical Inference Course Project"
+author: "Nicholas Ng"
+date: "Friday, January 23, 2015"
+output: pdf_document
+---
+
+# Overview of Project
